@@ -1,3 +1,3 @@
 # hello-world
 Hello World Repository
-Hello WOrld GitHub
+Hello World GitHub
